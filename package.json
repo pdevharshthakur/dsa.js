@@ -1,0 +1,16 @@
+{
+  "name": "dsa.js",
+  "version": "1.0.0",
+  "description": "All the code for the dsa in javascript",
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "keywords": [],
+  "author": "Harsh Thakur <harshprojects2002@gmail.com>",
+  "license": "MIT",
+  "packageManager": "pnpm@10.15.0",
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
