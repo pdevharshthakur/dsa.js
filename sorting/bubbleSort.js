@@ -1,3 +1,4 @@
+// This function sorts in ascending order
 function bubbleSort(arr) {
   for (let i = 0; i < arr.length; i++) {
     for (let j = 0; j < arr.length - 1 - i; j++) {

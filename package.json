@@ -4,6 +4,7 @@
   "description": "All the code for the dsa in javascript",
   "scripts": {
     "format": "prettier --write .",
+    "f": "prettier --write .",
     "format:check": "prettier --check ."
   },
   "keywords": [],
