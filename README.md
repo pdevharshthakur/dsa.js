@@ -11,19 +11,6 @@ This repository serves as a learning resource and reference implementation for c
 - Performance analysis
 - Usage demonstrations
 
-## Documentation
-
-Each algorithm includes:
-
-- Implementation details
-- Time and space complexity analysis
-- Usage examples
-- Performance considerations
-
-## 👨 Author
-
-**Harsh Thakur** - [harshprojects2002@gmail.com](mailto:harshprojects2002@gmail.com)
-
 ## License
 
 MIT License - see [LICENSE](LICENSE) file for details.
